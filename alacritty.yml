@@ -1,0 +1,18 @@
+window:
+  opacity: 0.98
+
+font:
+  size: 8
+
+selection:
+  save_to_clipboard: false
+
+live_config_reload: true
+shell:
+  program: /usr/bin/zsh
+
+mouse:
+  hide_when_typing: false
+
+key_bindings:
+  - { key: C, mods: Alt, action: Copy }
